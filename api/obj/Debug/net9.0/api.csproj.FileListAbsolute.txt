@@ -233,3 +233,4 @@ C:\Users\tacit\VS Code\Finshark\api\obj\Debug\net9.0\refint\api.dll
 C:\Users\tacit\VS Code\Finshark\api\obj\Debug\net9.0\api.pdb
 C:\Users\tacit\VS Code\Finshark\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\tacit\VS Code\Finshark\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\tacit\VS Code\Finshark\api\obj\Debug\net9.0\api.sourcelink.json
